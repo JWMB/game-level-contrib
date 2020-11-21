@@ -1,7 +1,7 @@
-| Value1    	| Value2		| Tags		| Text			| Images	|
-| --			| --			| ---		| ---			| ---	|
-| 1939-09-01	|				| WWII		| Tyskland invaderar polen	| ![](img/invasion-poland.png)
-| 1945-08-06	|				| WWII,Japan,US	| Atombomb över Hiroshima	
-| 1945-08-09	|				| WWII,Japan,US	| Atombomb över Nagasaki	
-| 1940-04-08	|				| WWII,Norway,Germany	| Norge invaderas	
-| 1940-05-26	| 1940-06-04	| WWII,UK,France	| Slaget vid Dunkirk	
+| Value1 | Value2 | Unit | Tags | Difficulty | Title | Body | Images | 
+| --- | --- | --- | --- | --- | --- | --- | ---
+| 1939-09-01 |  | Date | WWII |  | Tyskland invaderar polen | Andra världkrigen inleds med att Tyskland invaderar polen | ![](img/invasion-poland.png) | 
+| 1945-08-06 |  | Date | WWII,Japan,US |  | Atombomb över Hiroshima | USA fäller atombomben över Hiroshima |  | 
+| 1945-08-09 |  | Date | WWII,Japan,US |  | Atombomb över Nagasaki | USA fäller atombomben över Nagasaki |  | 
+| 1940-04-08 |  | Date | WWII,Norway,Germany |  | Norge invaderas | Tyskland invaderar Norge |  | 
+| 1940-05-26 | 1940-06-04 | Date | WWII,UK,France |  | Slaget vid Dunkirk | Storbrittanien evakuerar sina trupper från Dunkirk |  | 
